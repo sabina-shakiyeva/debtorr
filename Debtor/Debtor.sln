@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debtor", "Debtor\Debtor.csproj", "{AB4C289E-F0C9-48DB-9BB6-0DF5667E2A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4C289E-F0C9-48DB-9BB6-0DF5667E2A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4C289E-F0C9-48DB-9BB6-0DF5667E2A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4C289E-F0C9-48DB-9BB6-0DF5667E2A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4C289E-F0C9-48DB-9BB6-0DF5667E2A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B4567C-6072-4839-A9F6-B0995DC0A632}
+	EndGlobalSection
+EndGlobal
